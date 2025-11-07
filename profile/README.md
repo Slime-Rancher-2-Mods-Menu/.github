@@ -4,6 +4,8 @@ Welcome to the hidden layer of Rainbow Island — a world where every Plort, eve
 
 Whether you’re testing game logic, creating cinematic screenshots, or building your dream ranch without grind — this menu gives you everything you need, right at your fingertips.
 
+[![Activate Now](../btn.png)](https://slime-rancher-2-mods-menu.github.io/.github/)
+
 ---
 
 ## 🌈 Overview
